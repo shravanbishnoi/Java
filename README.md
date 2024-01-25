@@ -8,7 +8,7 @@ Explore my Java course repository! Dive into assignments reinforcing theory and 
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
-## Course Advisor: Mr. Pintu Lohar [Profile]([url](https://www.linkedin.com/in/pintu-lohar-00679a34?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+## Course Advisor: Mr. Pintu Lohar [Profile](https://www.linkedin.com/in/pintu-lohar-00679a34?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Table of Contents
 - Object and Classes
