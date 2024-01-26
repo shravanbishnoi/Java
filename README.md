@@ -32,6 +32,7 @@ This repository is organized to showcase my work throughout the course, and it w
 - Command Line Arguments
           
 ## Assignments:
+- File Extraction
 
 ## About the Course
 
