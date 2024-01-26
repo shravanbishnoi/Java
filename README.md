@@ -34,6 +34,9 @@ This repository is organized to showcase my work throughout the course, and it w
 ## Assignments:
 - File Extraction
 
+## Projects:
+- Text Cleaner
+  
 ## About the Course
 
 This course covers concepts of Java programming and related topics. It includes theoretical concepts as well as hands-on assignments and projects to deepen understanding and practical skills.
