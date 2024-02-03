@@ -157,6 +157,7 @@ class Stemmer_word {
         return word;
     }
 
+ 
     public String stemLy(String word) {
         // If the word length is greater than or equal to 5, apply the rules
         if (word.length() >= 5) {
@@ -386,7 +387,7 @@ class Stemmer_word {
         if (word.length()>= 3 && word.endsWith("s")){
             return word = word.substring(0, word.length()-1);
         }
-        
+     
         return word;
     }
 }
