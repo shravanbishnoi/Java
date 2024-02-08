@@ -1,3 +1,13 @@
+/*
+ * This java file contains Stack implementation
+ * Stack is a LIFO Data Structure, Last In First Out
+ * with all the helper methods
+ * 
+ * Author: Shravan
+ * Date: 08-02-2024
+ */
+
+// Main class
 public class stackimp {
     public static void main(String[] args) {
         Stack stack = new Stack(10);
