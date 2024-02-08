@@ -29,14 +29,14 @@ This repository is organized to showcase my work throughout the course, and it w
 - Packages
 - Command Line Arguments
 - Sorting Algos
-            - Bubble sort
-            - Insertion sort
-            - Selection sort
-            - Merge sort
-            - Quick sort
+  - Bubble sort
+  - Insertion sort
+  - Selection sort
+  - Merge sort
+  - Quick sort
 - Data Structure
-            - Stack
-            - Queue
+  - Stack
+  - Queue
   
           
 ## Assignments:
