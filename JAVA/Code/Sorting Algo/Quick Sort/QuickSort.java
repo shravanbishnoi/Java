@@ -6,7 +6,6 @@
  * Date: 20-02-2024
  */
 
-// Main class
 public class QuickSort {
     
     // Partition method helper for quicksort
