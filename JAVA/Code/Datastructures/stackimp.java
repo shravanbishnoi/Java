@@ -7,7 +7,6 @@
  * Date: 08-02-2024
  */
 
-
 // Main class
 public class stackimp {
     public static void main(String[] args) {
