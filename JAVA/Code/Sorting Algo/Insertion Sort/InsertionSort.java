@@ -6,7 +6,6 @@
  * Date: 20-02-2024
  */
 
-
 public class InsertionSort {
 
     public static void insertionSort(int[] arr) {
