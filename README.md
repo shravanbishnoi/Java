@@ -34,9 +34,20 @@ This repository is organized to showcase my work throughout the course, and it w
   - Selection sort
   - Merge sort
   - Quick sort
+- Search Algos
+  - Linear search
+  - Binary search
 - Data Structure
   - Stack
   - Queue
+  - LinkedList
+  - Binary search tree
+  - Graphs
+- Collection Framework
+- Swing classes
+- Wrapper class
+- Generics in java
+- Comparable vs comparator
   
           
 ## Assignments:
