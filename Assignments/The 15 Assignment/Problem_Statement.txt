@@ -1,0 +1,26 @@
+You need to do a small assignment of creating a 3x3 matrix of integers with the following conditions.
+
+1) You can use 9 integers between 1 to 9 where is number is unique (i.e. no repeating of numbers)
+2) Sum of all the row elements will be 15
+3) Sum of all the column elements will be 15
+4) Sum of all the diagonal elements will be 15
+5) You cannot simply guess a combination and assign with array elements.
+You have to find the combination technically in the program.
+
+Therefor, the array will look like follows:
+
+[n1 ]   [n2 ]   [n3 ] 
+
+[n4]    [n5 ]   [n6 ]
+
+[n7 ]   [n8 ]   [n9 ]
+
+where each number is unique and satisfies the following conditions:
+n1+n2+n3=15
+n4+n5+n6=15
+n7+n8+n9=15
+n1+n4+n7=15
+n2+n5+n8=15
+n3+n6+n9=15
+n1+n5+n9=15
+n3+n5+n7=15
