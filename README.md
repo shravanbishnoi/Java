@@ -52,6 +52,7 @@ This repository is organized to showcase my work throughout the course, and it w
           
 ## Assignments:
 - File Extraction
+- The 15 Assignment, Magic Matrix
 
 ## Projects:
 - Text Cleaner
