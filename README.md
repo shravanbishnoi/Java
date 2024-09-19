@@ -2,7 +2,8 @@
 This GitHub repository is dedicated to storing and managing all the Java code related to my Object Oriented programming in Java course. Throughout the semester, I will be working on various programming problems and tasks that will be stored here. I cordially invite you to explore the codebase and give your valuable feedback and suggestions. This will help my programming skills to improve and build my fundamentals in Java. These all are self implemented.
 
 Explore my Java course repository! Dive into assignments reinforcing theory and projects applying practical skills. Contribute and collaborate to enhance this learning hub. 
-🚀 #Java #CodingwithJava #OOPS
+🚀 
+#Java #CodingwithJava #OOPS
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
